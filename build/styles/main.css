@@ -31,6 +31,11 @@ li {
 @media (max-width: 767px) {
   .container {
     max-width: 70%;
+    margin-top: 100px;
+  }
+  .container .projects-list-item a {
+    padding: 10px 14px;
+    font-size: 1.5vh;
   }
 }
 header {
